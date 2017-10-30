@@ -7,3 +7,6 @@ It's my dream AI, which will practically do everything, other than killing peopl
 3. Personal Assistant in Every Field
 4. A Companion/Friend
 5. YET TO COME
+
+
+Let's start with some basics, like basic Question and Answer sessions. Will Improve on that and then go forward.
